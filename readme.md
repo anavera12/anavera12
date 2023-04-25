@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cypress and Postman**
 
-- 🌱 I’m currently learning **Cypress and Python**
+- 🌱 I’m currently learning **Cypress and Javascript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ana-clara-vera-7b8178234/**
 

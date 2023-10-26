@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anavera12&label=Profile%20views&color=0e75b6&style=flat" alt="anavera12" /> </p>
 
-- 🔭 I’m currently working on **Cypress and Postman**
+- 🔭 I’m currently working on **Robot-Framework**
 
-- 🌱 I’m currently learning **Cypress and Javascript**
+- 🌱 I’m currently learning **Robotframework and Python**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ana-clara-vera-7b8178234/**
 

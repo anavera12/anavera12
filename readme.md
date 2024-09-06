@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ana Clara i'm QA and I live in Brazil</h1>
-<h3 align="center">My studies are focused on cypress, postman, K6, and Robot</h3>
+<h3 align="center">My studies are focused on Cypress, Postman, K6, and Robot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anavera12&label=Profile%20views&color=0e75b6&style=flat" alt="anavera12" /> </p>
 
 - I’m currently working on **Cypress, Postman, K6, Javascript, Robot, Python**
-
-- 📫 How to reach me **https://www.linkedin.com/in/ana-clara-vera-7b8178234/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

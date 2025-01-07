@@ -7,7 +7,7 @@
 
 - 🤝 Cypress, Postman, K6, Robot, e Playwright.
 
-- 📫 Meu e-mail **ana.clara.vera13@gmail.com**
+- 📫 Meu e-mail para contato **ana.clara.vera13@gmail.com**
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte comigo 🤝 </h3>
 

@@ -9,9 +9,9 @@
 
 - 📫 Meu e-mail **ana.clara.vera13@gmail.com**
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte comigo 🤝 </h3>
+<h3 align="right" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte comigo 🤝 </h3>
 
-<p align="center">
+<p align="right">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ana-clara-vera-7b8178234/">

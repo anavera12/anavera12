@@ -24,4 +24,4 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Pipeline CI/CD para Testes Automatizados com Postman e Newman](https://gitlab.com/postman2423740/postman-pipeline)
+[Pipeline CI/CD para Testes Automatizados com Postman e Newman](https://gitlab.com/postman2423740/postman-pipeline)

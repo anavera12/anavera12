@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Meu nome é <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Ana</a></h1>
-<h3 align="center">Atuo como Analista de QA &#127470;&#127475</h3>
+<h3 align="center">Atuo como Analista de QA </h3>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
